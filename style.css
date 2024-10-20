@@ -69,6 +69,7 @@ main {
   width: 100%;
   overflow-x: hidden;
   padding: 10px;
+  cursor: pointer;
 }
 
 .section-types {
